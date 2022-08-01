@@ -1,0 +1,4 @@
+baseURL = 'http://178.62.194.83/'
+languageCode = 'en'
+title = 'Mirantibus'
+theme = "hello-friend-ng"
