@@ -1,4 +1,176 @@
-baseURL = 'http://178.62.194.83/'
-languageCode = 'en'
+baseURL = '/'
+languageCode = 'en-gb'
+languageName = "English"
 title = 'Mirantibus'
 theme = "hello-friend-ng"
+subtitle = "Home"
+homeSubtitle = "Science, Technology and Politics."
+keywords = ""
+
+paginate  = 10
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>' # This message is only used by the RSS template.
+
+[author]
+  name = "Chico Demmenie"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  readOtherPosts = "Read other posts"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Global language menu
+  #
+  # Enables the global language menu.
+  #
+  enableGlobalLanguageMenu = false
+
+  # Enable theme toggle
+  #
+  # This options enables the theme toggle for the theme.
+  # Per default, this option is off.
+  # The theme is respecting the prefers-color-scheme of the operating systeme.
+  # With this option on, the page user is able to set the scheme he wants.
+  enableThemeToggle = true
+
+  # Metadata mostly used in document's head
+  description = "A blog about Science, Technology and Politics."
+  keywords = "homepage, blog"
+  images = [""]
+
+  [[params.social]]
+      name = "twitter"
+      url = "https://twitter.com/CDemmenie"
+
+  [[params.social]]
+      name = "github"
+      url  = "https://github.com/Demmenie"
+
+  [[params.social]]
+      name = "linkedin"
+      url  = "https://www.linkedin.com/in/chico-demmenie/"
+
+  [params.logo]
+      logoText = "Mirantibus.blog"
+      logoHomeLink = "/"
+
+  [params.footer]
+      trademark = true
+      rss = true
+      copyright = true
+      author = true
+
+      topText = []
+      bottomText = [
+        "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+        "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+          ]
+
+[menu]
+    [[menu.main]]
+        identifier = "blog"
+        name       = "Blog"
+        url        = "/posts"
+
+    [[menu.main]]
+        identifier = "portfolio"
+        name       = "Portfolio"
+        url        = "/portfolio"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+#[languages]
+  #[languages.en]
+    #baseURL = 'http://127.0.0.1:1313/en'
+    #languageCode = 'gb'
+    #languageName = "English"
+    #weight = 1
+    #title = "Mirantibus"
+    #subtitle = "Home"
+    #homeSubtitle = "Science, Technology and Politics."
+    #keywords = ""
+    #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    #readOtherPosts = "Read other posts"
+
+    #[languages.en.params.logo]
+        #logoText = "Mirantibus.blog"
+        #logoHomeLink = "/en"
+
+    #[languages.en.params.footer]
+        #trademark = true
+        #rss = true
+        #copyright = true
+        #author = true
+
+        #topText = []
+        #bottomText = [
+        #"Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+        #"Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+        #]
+
+    #[languages.en.menu]
+        #[[languages.en.menu.main]]
+            #identifier = "blog"
+            #name       = "Blog"
+            #url        = "/posts"
+
+        #[[languages.en.menu.main]]
+            #identifier = "portfolio"
+            #name       = "Portfolio"
+            #url        = "/portfolio"
+
+  #[languages.nl]
+    #baseURL = 'http://localhost/nl/'
+    #languageCode = 'nl'
+    #languageName = "Nederlands"
+    #weight = 2
+    #title = "Mirantibus"
+    #subtitle = "Thuis"
+    #homeSubtitle = "Wetenschap, Technologie en Politiek."
+    #keywords = ""
+    #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    #readOtherPosts = "Lees andere berichten"
+
+    #[languages.nl.params.logo]
+        #logoText = "Mirantibus.blog"
+        #logoHomeLink = "/nl/"
+        # or
+        #
+        # path = "/img/your-example-logo.svg"
+        # alt = "Your example logo alt text"
+
+    #[languages.nl.params.footer]
+        #trademark = true
+        #rss = true
+        #copyright = true
+        #author = true
+
+        #topText = []
+        #bottomText = [
+        #"Aangedreven door <a href=\"http://gohugo.io\">Hugo</a>",
+        #"Gemaakt met &#10084; door <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+        #]
+
+    #[languages.nl.menu]
+        #[[languages.nl.menu.main]]
+            #identifier = "blog"
+            #name       = "Blog"
+            #url        = "/nl/posts"
+
+        #[[languages.nl.menu.main]]
+            #identifier = "portfolio"
+            #name       = "Portfolio"
+            #url        = "/nl/portfolio"
