@@ -3,7 +3,7 @@ title: "Portfolio"
 draft: false
 ---
 
-[![My writing setup](/portflio/images/desktop.jpg)](/portfolio/academic_writing)
+[![My writing setup](/portfolio/images/desktop.jpg)](/portfolio/academic_writing)
 
 My home desktop where I work from for the most part.
 

@@ -7,6 +7,8 @@ subtitle = "Home"
 homeSubtitle = "Science, Technology and Politics."
 keywords = ""
 
+description = 'Mir·an·ti·bus [Latin] Won·der [English] noun /ˈwʌndə/ A feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar.'
+
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>' # This message is only used by the RSS template.

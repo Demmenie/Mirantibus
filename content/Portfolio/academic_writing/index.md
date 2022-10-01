@@ -41,5 +41,3 @@ In this essay I explore the market position that Amazon has in the Video on Dema
 This project had a simple brief: write an essay on the causes, impacts and possible actions on a selected topic related to the UN's Sustainable Development Goals. I wrote about the role that computer systems, current and future, that will have an impact on the SDGs.
 
 11th December 2020
-
----
