@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space on Mirantibus</title>
+    <link>/tags/space/</link>
+    <description>Recent content in Space on Mirantibus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 04 Aug 2019 21:02:00 +0000</lastBuildDate><atom:link href="/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Race.</title>
+      <link>/posts/space-race/</link>
+      <pubDate>Sun, 04 Aug 2019 21:02:00 +0000</pubDate>
+      
+      <guid>/posts/space-race/</guid>
+      <description>Today we will be looking into the history of spaceflight and how it has been developing aggressively more recently.
+A short history of rocketry and spaceflight. Rockets first began as an invention in 13th Century China under the Song dynasty when they were used as incendiary weapons by the Chinese navy. It wasn’t until the early 19th century however that the western world adopted rockets as a military weapon when the &amp;ldquo;Congreve rocket&amp;rdquo; was developed by Sir William Congreve.</description>
+    </item>
+    
+  </channel>
+</rss>
