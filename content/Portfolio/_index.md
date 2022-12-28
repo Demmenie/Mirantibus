@@ -1,6 +1,11 @@
 ---
 title: "Portfolio"
 draft: false
+
+cascade:
+  _build:
+    render: always
+    list: never
 ---
 
 [![My writing setup](/portfolio/images/desktop.jpg)](/portfolio/academic_writing)
@@ -13,6 +18,8 @@ As a university student, I have to do a lot of writing and case studies, this is
 
 ---  
 
+
+
 [![Staveren](/portfolio/images/Staveren.jpg)](/portfolio/photography)
 
 One of the best views from my grandparents' home.
@@ -22,6 +29,8 @@ One of the best views from my grandparents' home.
 Over the years I have grown to love using a camera, here is some of my work.
 
 ---
+
+
 
 [![Stolen Focus](/portfolio/images/stolen_focus.jpg)](/portfolio/reading_list)
 
