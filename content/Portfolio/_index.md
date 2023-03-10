@@ -18,7 +18,15 @@ As a university student, I have to do a lot of writing and case studies, this is
 
 ---  
 
+[![NYC Map](images/nyc.png)](/portfolio/projects)
 
+A map of NYC I made using open street map data.
+
+## [Projects](/portfolio/projects)
+
+These are a few of the projects that I work on in my spare time.
+
+---
 
 [![Staveren](/portfolio/images/Staveren.jpg)](/portfolio/photography)
 
