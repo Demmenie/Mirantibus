@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Mirantibus</title>
+    <link>/tags/history/</link>
+    <description>Recent content in History on Mirantibus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 26 Nov 2020 15:00:00 +0000</lastBuildDate><atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The good in us all: why we should trust people more.</title>
+      <link>/posts/the-good-in-us-all/</link>
+      <pubDate>Thu, 26 Nov 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-good-in-us-all/</guid>
+      <description>Recently I read a book by the Dutch historian Rutger Bregman, called &amp;ldquo;Human Kind: A hopeful history&amp;rdquo;. The book is about human nature, the underlying features that shape us and how we are affected by civilisation or perhaps how civilisation is shaped by our nature. The book systematically goes through each aspect of human nature, each example of our collective nature that you may think is true and then shows you how it can be reversed.</description>
+    </item>
+    
+  </channel>
+</rss>

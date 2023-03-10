@@ -1,14 +1,12 @@
 ---
-title: "Introduction"
-date: 2019-07-27T00:00:00Z
+title: "Introduction."
+date: 2019-07-27T16:27:00Z
 draft: false
 toc: false
 images:
 tags:
   - Personal
 ---
-#Introduction.
-
 A quick introduction into what this blog is about:
 
 In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.

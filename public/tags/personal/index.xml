@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Mirantibus</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in Personal on Mirantibus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Jul 2019 16:27:00 +0000</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction.</title>
+      <link>/posts/introduction/</link>
+      <pubDate>Sat, 27 Jul 2019 16:27:00 +0000</pubDate>
+      
+      <guid>/posts/introduction/</guid>
+      <description>A quick introduction into what this blog is about:
+In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.
+Over the course of this blog I hope to cover many topics including Spaceflight &amp;amp; Rocketry, Physics, Astronomy, Biology, Chemistry and the overall future of consumer Technology.</description>
+    </item>
+    
+  </channel>
+</rss>

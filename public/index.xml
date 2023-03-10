@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Mirantibus</title>
+    <link>/</link>
+    <description>Recent content in Home on Mirantibus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 00:48:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction.</title>
+      <link>/posts/introduction/</link>
+      <pubDate>Sat, 27 Jul 2019 16:27:00 +0000</pubDate>
+      
+      <guid>/posts/introduction/</guid>
+      <description>A quick introduction into what this blog is about:
+In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.
+Over the course of this blog I hope to cover many topics including Spaceflight &amp;amp; Rocketry, Physics, Astronomy, Biology, Chemistry and the overall future of consumer Technology.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>My home desktop where I work from for the most part.
+Academic Writing As a university student, I have to do a lot of writing and case studies, this is where I post some of that.
+One of the best views from my grandparents&amp;rsquo; home.
+Photography Over the years I have grown to love using a camera, here is some of my work.
+Stolen Focus is an interesting book about attention and why we&amp;rsquo;re losing it.</description>
+    </item>
+    
+  </channel>
+</rss>

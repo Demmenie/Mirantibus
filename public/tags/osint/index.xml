@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSINT on Mirantibus</title>
+    <link>/tags/osint/</link>
+    <description>Recent content in OSINT on Mirantibus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 00:48:00 +0000</lastBuildDate><atom:link href="/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aethra.</title>
+      <link>/posts/aethra/</link>
+      <pubDate>Fri, 16 Sep 2022 00:48:00 +0000</pubDate>
+      
+      <guid>/posts/aethra/</guid>
+      <description>On a sunny day, earlier this year, I left my flat and headed into town. This had become somewhat of a routine for me; go into the town centre, grab a drink and go for a stroll. It keeps me happy. I sat down in the kind of chain cafè that only really exists in the UK and took out the book I had been reading. &amp;ldquo;We are Bellingcat&amp;rdquo; by Elliot Higgins is an almost autobiographical book that explains how Higgins and a growing group of followers and friends started Bellingcat and created the ever-growing field of Open Source Intelligence or OSINT.</description>
+    </item>
+    
+  </channel>
+</rss>
