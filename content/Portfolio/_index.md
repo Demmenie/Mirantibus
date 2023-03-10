@@ -16,9 +16,9 @@ My home desktop where I work from for the most part.
 
 As a university student, I have to do a lot of writing and case studies, this is where I post some of that.  
 
----  
+---
 
-[![NYC Map](/images/nyc.png)](/portfolio/projects)
+[![NYC Map](/portfolio/images/nyc.png)](/portfolio/projects)
 
 A map of NYC I made using open street map data.
 
