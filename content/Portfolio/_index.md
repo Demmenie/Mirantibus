@@ -18,7 +18,7 @@ As a university student, I have to do a lot of writing and case studies, this is
 
 ---  
 
-[![NYC Map](images/nyc.png)](/portfolio/projects)
+[![NYC Map](/images/nyc.png)](/portfolio/projects)
 
 A map of NYC I made using open street map data.
 
