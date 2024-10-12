@@ -2,100 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mirantibus</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Mirantibus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 00:48:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philanthropy</title>
+      <link>//localhost:1313/tags/philanthropy/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/philanthropy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>//localhost:1313/tags/tech/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/tech/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Creating</title>
-      <link>/tags/creating/</link>
+      <link>//localhost:1313/tags/creating/</link>
       <pubDate>Fri, 16 Sep 2022 00:48:00 +0000</pubDate>
       
-      <guid>/tags/creating/</guid>
+      <guid>//localhost:1313/tags/creating/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>OSINT</title>
-      <link>/tags/osint/</link>
+      <link>//localhost:1313/tags/osint/</link>
       <pubDate>Fri, 16 Sep 2022 00:48:00 +0000</pubDate>
       
-      <guid>/tags/osint/</guid>
+      <guid>//localhost:1313/tags/osint/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>//localhost:1313/tags/technology/</link>
       <pubDate>Fri, 16 Sep 2022 00:48:00 +0000</pubDate>
       
-      <guid>/tags/technology/</guid>
+      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Critique</title>
-      <link>/tags/critique/</link>
+      <link>//localhost:1313/tags/critique/</link>
       <pubDate>Wed, 04 May 2022 20:06:00 +0000</pubDate>
       
-      <guid>/tags/critique/</guid>
+      <guid>//localhost:1313/tags/critique/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Environmentalism</title>
-      <link>/tags/environmentalism/</link>
+      <link>//localhost:1313/tags/environmentalism/</link>
       <pubDate>Wed, 04 May 2022 20:06:00 +0000</pubDate>
       
-      <guid>/tags/environmentalism/</guid>
+      <guid>//localhost:1313/tags/environmentalism/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Science</title>
-      <link>/tags/science/</link>
+      <link>//localhost:1313/tags/science/</link>
       <pubDate>Wed, 04 May 2022 20:06:00 +0000</pubDate>
       
-      <guid>/tags/science/</guid>
+      <guid>//localhost:1313/tags/science/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Politics</title>
-      <link>/tags/politics/</link>
+      <link>//localhost:1313/tags/politics/</link>
       <pubDate>Sun, 13 Jun 2021 21:59:00 +0000</pubDate>
       
-      <guid>/tags/politics/</guid>
+      <guid>//localhost:1313/tags/politics/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
       <title>Anthropology</title>
-      <link>/tags/anthropology/</link>
+      <link>//localhost:1313/tags/anthropology/</link>
       <pubDate>Thu, 26 Nov 2020 15:00:00 +0000</pubDate>
       
-      <guid>/tags/anthropology/</guid>
+      <guid>//localhost:1313/tags/anthropology/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>/tags/history/</link>
-      <pubDate>Thu, 26 Nov 2020 15:00:00 +0000</pubDate>
-      
-      <guid>/tags/history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space</title>
-      <link>/tags/space/</link>
-      <pubDate>Sun, 04 Aug 2019 21:02:00 +0000</pubDate>
-      
-      <guid>/tags/space/</guid>
-      <description></description>
+      <content></content>
     </item>
     
   </channel>

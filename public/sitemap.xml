@@ -2,73 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/aethra/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/philanthropy/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tech/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/tech-for-good/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/aethra/</loc>
     <lastmod>2022-09-16T00:48:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/creating/</loc>
+    <loc>//localhost:1313/tags/creating/</loc>
     <lastmod>2022-09-16T00:48:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/tags/osint/</loc>
     <lastmod>2022-09-16T00:48:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/osint/</loc>
+    <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2022-09-16T00:48:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-16T00:48:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/technology/</loc>
-    <lastmod>2022-09-16T00:48:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2022-08-01T21:37:49+01:00</lastmod>
   </url><url>
-    <loc>/tags/critique/</loc>
+    <loc>//localhost:1313/tags/critique/</loc>
     <lastmod>2022-05-04T20:06:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/environmentalism/</loc>
+    <loc>//localhost:1313/tags/environmentalism/</loc>
     <lastmod>2022-05-04T20:06:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/how-not-to-tackle-a-crisis/</loc>
+    <loc>//localhost:1313/posts/how-not-to-tackle-a-crisis/</loc>
     <lastmod>2022-05-04T20:06:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/science/</loc>
+    <loc>//localhost:1313/tags/science/</loc>
     <lastmod>2022-05-04T20:06:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/politics/</loc>
+    <loc>//localhost:1313/tags/politics/</loc>
     <lastmod>2021-06-13T21:59:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-climate-crisis-response/</loc>
+    <loc>//localhost:1313/posts/the-climate-crisis-response/</loc>
     <lastmod>2021-06-13T21:59:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/anthropology/</loc>
+    <loc>//localhost:1313/tags/anthropology/</loc>
     <lastmod>2020-11-26T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/history/</loc>
+    <loc>//localhost:1313/tags/history/</loc>
     <lastmod>2020-11-26T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-good-in-us-all/</loc>
+    <loc>//localhost:1313/posts/the-good-in-us-all/</loc>
     <lastmod>2020-11-26T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/space/</loc>
+    <loc>//localhost:1313/tags/space/</loc>
     <lastmod>2019-08-04T21:02:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/space-race/</loc>
+    <loc>//localhost:1313/posts/space-race/</loc>
     <lastmod>2019-08-04T21:02:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/going_nuclear/</loc>
+    <loc>//localhost:1313/posts/going_nuclear/</loc>
     <lastmod>2019-07-28T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/introduction/</loc>
+    <loc>//localhost:1313/posts/introduction/</loc>
     <lastmod>2019-07-27T16:27:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/personal/</loc>
+    <loc>//localhost:1313/tags/personal/</loc>
     <lastmod>2019-07-27T16:27:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>/portfolio/</loc>
-  </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url>
 </urlset>

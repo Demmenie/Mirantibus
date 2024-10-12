@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Mirantibus</title>
-    <link>/tags/personal/</link>
+    <link>//localhost:1313/tags/personal/</link>
     <description>Recent content in Personal on Mirantibus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 16:27:00 +0000</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2019 16:27:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction.</title>
-      <link>/posts/introduction/</link>
+      <link>//localhost:1313/posts/introduction/</link>
       <pubDate>Sat, 27 Jul 2019 16:27:00 +0000</pubDate>
       
-      <guid>/posts/introduction/</guid>
-      <description>A quick introduction into what this blog is about:
-In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.
-Over the course of this blog I hope to cover many topics including Spaceflight &amp;amp; Rocketry, Physics, Astronomy, Biology, Chemistry and the overall future of consumer Technology.</description>
+      <guid>//localhost:1313/posts/introduction/</guid>
+      <description>&lt;p&gt;A quick introduction into what this blog is about:&lt;/p&gt;
+&lt;p&gt;In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.&lt;/p&gt;
+&lt;p&gt;Over the course of this blog I hope to cover many topics including Spaceflight &amp;amp; Rocketry, Physics, Astronomy, Biology, Chemistry and the overall future of consumer Technology. I will also share much of my own work, as well as the reasons that I work on certain projects.&lt;/p&gt;</description>
+      <content>&lt;p&gt;A quick introduction into what this blog is about:&lt;/p&gt;
+&lt;p&gt;In this blog, I shall be exploring many different scientific, technological and political ideas. Often these leaps in human technology and organisation and the theories behind them have connections to history and the world around us, I hope to talk about this side of the world of science too; the inspirations and the problems that led to clever solutions.&lt;/p&gt;
+&lt;p&gt;Over the course of this blog I hope to cover many topics including Spaceflight &amp;amp; Rocketry, Physics, Astronomy, Biology, Chemistry and the overall future of consumer Technology. I will also share much of my own work, as well as the reasons that I work on certain projects.&lt;/p&gt;
+&lt;h2 id=&#34;disclosure&#34;&gt;Disclosure.&lt;/h2&gt;
+&lt;p&gt;Although I do research my topics and I do try my best to cover them honestly and truthfully, I will inevitably make mistakes. That being said I will also be including my own opinion in these posts so I recommend you take them with a handful of salt.&lt;/p&gt;
+&lt;p&gt;Most of the research conducted is simply surface level and although I intend to cover more than just the basic information about each topic; i am not an expert by any means and I do also wish to make them entertaining.&lt;/p&gt;
+&lt;p&gt;Each post will be edited after its initial release and I do read through them every now and then, so expect them to change slightly. I will also try to ground all of my writing with references; I am always looking to improve so if you find inaccuracies or things that need referencing, feel free to tweet at me.&lt;/p&gt;
+&lt;p&gt;That’s all for now but I hope that I will be able to start our journey soon!&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Chico Demmenie.&lt;/p&gt;
+&lt;p&gt;[Re-Uploaded &amp;amp; Edited 01/08/2022]&lt;/p&gt;
+</content>
     </item>
     
   </channel>

@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'en-gb'
 languageName = "English"
 title = 'Mirantibus'
-theme = "hello-friend-ng"
+theme = "hugo-theme-terminal"
 subtitle = "Home"
 homeSubtitle = "Science, Technology and Politics."
 keywords = ""
@@ -51,7 +51,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   images = [""]
 
   [[params.social]]
-      name = "twitter"
+      name = "x"
       url = "https://twitter.com/CDemmenie"
 
   [[params.social]]

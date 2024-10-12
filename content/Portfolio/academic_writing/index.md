@@ -3,6 +3,16 @@ title: "Academic Writing"
 draft: false
 ---
 
+## [Technology and Cyberlaw - Challenges of AI in the law and the risk of stifling Innovation](files/Challenges_of_AI.pdf)
+
+[![peer to peer network](/portfolio/academic_writing/images/AI-law.jpg)](files/Challenges_of_AI.pdf)
+
+I had to take a Law class in the last year of my Bachelor's and decided to take the opportunity to say something about the state of the law in comparison to how fast AI is breaking boundaries.
+
+12th October 2024
+
+---
+
 ## [Academic and Professional Skills - Can peer to peer networks circumvent censorship in authoritarian countries?](files/academic_skills.pdf)
 
 [![peer to peer network](/portfolio/academic_writing/images/peer-to-peer-network.jpg)](files/academic_skills.pdf)
